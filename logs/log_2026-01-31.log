@@ -1,0 +1,24 @@
+2026-01-31 15:58:48,410 - INFO - Starting to build pipeline...
+2026-01-31 15:58:48,657 - INFO - Data  loaded and processed...
+2026-01-31 15:58:48,665 - INFO - Use pytorch device_name: cpu
+2026-01-31 15:58:48,665 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 15:58:54,007 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-01-31 15:59:15,410 - INFO - Vector store Built sucesfully....
+2026-01-31 15:59:15,411 - INFO - Pipeline built sucessfully....
+2026-01-31 16:08:34,707 - INFO - Initializing Recommendation Pipeline
+2026-01-31 16:08:34,721 - INFO - Use pytorch device_name: cpu
+2026-01-31 16:08:34,721 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 16:08:41,150 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-01-31 16:08:43,358 - INFO - Pipeline initialized successfully
+2026-01-31 16:09:50,260 - INFO - Initializing Recommendation Pipeline
+2026-01-31 16:09:50,278 - INFO - Use pytorch device_name: cpu
+2026-01-31 16:09:50,279 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 16:09:55,899 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-01-31 16:09:57,877 - INFO - Pipeline initialized successfully
+2026-01-31 16:10:26,864 - INFO - Received query: hiiiii
+2026-01-31 16:10:27,622 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-31 16:10:44,958 - INFO - Received query: hiii
+2026-01-31 16:10:45,470 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-31 16:15:41,958 - INFO - Received query: i am in a mood to watch something comforting suggest accordingly
+2026-01-31 16:15:42,902 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-31 16:15:47,470 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
